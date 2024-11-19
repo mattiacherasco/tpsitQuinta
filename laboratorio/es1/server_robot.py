@@ -1,5 +1,5 @@
 import socket
-MYADDRESS = ("192.168.1.125", 9090)
+MYADDRESS = ("192.168.1.121",9000)
 BUFFER_SIZE = 4096
 
 def avanti(val):
